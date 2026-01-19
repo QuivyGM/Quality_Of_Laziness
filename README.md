@@ -1,2 +1,6 @@
-# Quality_Of_Laziness
-Projects to increase quality of laziness in lazy ways.
+# Choice Paralysis
+
+When you don't want to choose.
+
+### grid_fill.py
+If for some reason you want a random grid configuration but don't trust your own randomness.
