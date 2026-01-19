@@ -1,2 +1,2 @@
 # Quality_Of_Life
-Projects for when I'm 
+Projects to increase quality of life in weird ways.
