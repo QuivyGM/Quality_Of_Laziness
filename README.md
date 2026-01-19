@@ -1,2 +1,3 @@
-# Quality_Of_Laziness
-Projects to increase quality of laziness in lazy ways.
+# Baekjoon Profile Crawler
+
+When you want to check Baekjoon rating and score but you're too lazy to constantly refresh the website.
