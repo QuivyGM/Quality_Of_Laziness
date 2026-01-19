@@ -1,6 +1,7 @@
 # Baekjoon Profile Crawler
 
-When you want to check Baekjoon rating and score but you're too lazy to constantly refresh the website.
+When you want to check Baekjoon without checking Baekjoon.
 
-### requirements
-pip install requests
+### rating_crawler.py 
+When you want an update on a user's rating but too lazy to press the refresh button.
+(needs: pip install requests)
